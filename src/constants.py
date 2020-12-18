@@ -16,3 +16,6 @@ proxies={
 'http':'127.0.0.1:1080',
 'https':'127.0.0.1:1080'
 }
+
+# ishadowx 免费ss账号
+ishadowx_url = 'https://my.ishadowx.biz'
